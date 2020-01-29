@@ -5,7 +5,9 @@ Thanks for [ExchangeRate-API](https://www.exchangerate-api.com/)
 ### Download
 
 ```
-curl https://raw.githubusercontent.com/KayacChang/CurrencyConverter/master/bin/currency > currency && chmod u+x currency
+curl https://raw.githubusercontent.com/KayacChang/CurrencyConverter/master/bin/currency > currency && \
+     chmod u+x currency && \
+     mv $_ /usr/local/bin
 ```
 
 ### Usage
