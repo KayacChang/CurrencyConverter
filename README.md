@@ -2,6 +2,10 @@
 
 Thanks for [ExchangeRate-API](https://www.exchangerate-api.com/)
 
+### Download
+
+[bin](https://github.com/KayacChang/CurrencyConverter/blob/master/bin/currency?raw=true)
+
 ### Usage
 
 ```
